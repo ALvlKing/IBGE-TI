@@ -42,11 +42,11 @@ Criar um site informativo e interativo sobre os dados do IBGE relacionados à á
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/SEU_USUARIO/ibge-ti-pesquisa.git
+   git clone https://github.com/ALvlKing/IBGE-TI
    ```
 2. **Acesse a pasta do projeto**
    ```bash
-   cd ibge-ti-pesquisa
+   cd IBGE-TI
    ```
 3. **Abra o arquivo `index.html`** no navegador de sua preferência.
 
